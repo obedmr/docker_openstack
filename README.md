@@ -9,7 +9,7 @@ where we will be working on:
 - Itentity Service (keystone)
 - Image Service (glance)
 - Nova-Controller (controller)
-- Nova-Compute with Legacy Netork (compute)
+- Nova-Compute with Legacy Network (compute)
 - Object Storage (swift)
 - Block storage (cinder)
 - Orcherstration (heat)
